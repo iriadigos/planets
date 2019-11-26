@@ -1,9 +1,6 @@
 Cold and dry, but everything is my favorite color.
 <<<<<<< HEAD
 The two moons may be a problem for Wolfman
-<<<<<<< HEAD
 But the Mummy will appreciate the lack of humidity
 =======
 >>>>>>> parent of 863f5e6... Add concerns about effects of Mars' moon on Wolfman
-=======
->>>>>>> parent of 2f88f46... Discuss concerns about Mars' climate for Mummy
